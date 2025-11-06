@@ -8,7 +8,7 @@ RESTful API for managing video records using Node.js, Express, MongoDB, and Mong
 ## How to Install and Run
 - **Clone & Install**
   ```bash
-  git clone <your-repo-url>
+  git clone https://github.com/avinash23em/project-api
   cd project-api
   npm install
   ```
@@ -112,5 +112,4 @@ RESTful API for managing video records using Node.js, Express, MongoDB, and Mong
 ## Tech Stack
 - Node.js, Express, MongoDB Atlas, Mongoose, Vercel
 
-## Author
-- Avinash
+
